@@ -11,4 +11,4 @@ Logistic Regression
 Stochastic Gradient Descent Classifier  
 
 
-A voting-based ensemble method is employed, utilizing soft voting to average the predicted probabilities of each class from multiple machine learning algorithms. This approach achieves an accuracy of 83%.
+A voting-based ensemble method is employed, utilizing soft voting to average the predicted probabilities of each class from multiple machine learning algorithms. This approach achieved an accuracy of 82.5% in the Kaggle Competetion
