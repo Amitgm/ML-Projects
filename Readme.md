@@ -10,4 +10,5 @@ Linear SVC
 Logistic Regression  
 Stochastic Gradient Descent Classifier  
 
-A voting based ensmeble is used
+
+A voting-based ensemble method is employed, utilizing soft voting to average the predicted probabilities of each class from multiple machine learning algorithms. This approach achieves an accuracy of 83%.
