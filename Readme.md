@@ -11,7 +11,7 @@ Logistic Regression
 Stochastic Gradient Descent Classifier  
 
 <div align="center">
-    <img src="./images/workout-wizard.png" alt="Summarization Results" width="1200">
+    <img src="./images/Screenshot 2025-02-25 172805.png" alt="Summarization Results" width="1200">
     <p><em>Gym Chat App</em></p>
 </div>
 
