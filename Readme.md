@@ -10,5 +10,10 @@ Linear SVC
 Logistic Regression  
 Stochastic Gradient Descent Classifier  
 
+<div align="center">
+    <img src="./images/workout-wizard.png" alt="Summarization Results" width="1200">
+    <p><em>Gym Chat App</em></p>
+</div>
+
 
 A voting-based ensemble method is employed, utilizing soft voting to average the predicted probabilities of each class from multiple machine learning algorithms. This approach achieved an accuracy of 82.5% in the Kaggle Competetion
