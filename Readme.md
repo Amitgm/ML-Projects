@@ -23,6 +23,6 @@ A voting-based ensemble method is employed, utilizing soft voting to average the
 Below shows the confusion matrix of the voting based classifier
 
 <div align="center">
-    <img src="./images/Screenshot 2025-02-25 172805.png" alt="Sound wave" width="1200">
-    <p><em>A sound wave</em></p>
+    <img src="./images/Screenshot 2025-02-25 194652.png" alt="Confusion Matrix" width="1200">
+    <p><em>Confusion Matrix</em></p>
 </div>
