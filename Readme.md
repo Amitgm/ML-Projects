@@ -10,10 +10,19 @@ Linear SVC
 Logistic Regression  
 Stochastic Gradient Descent Classifier  
 
+The below image is of a single data instance which is converted to voice.
+
 <div align="center">
-    <img src="./images/Screenshot 2025-02-25 172805.png" alt="Summarization Results" width="1200">
-    <p><em>Gym Chat App</em></p>
+    <img src="./images/Screenshot 2025-02-25 172805.png" alt="Sound wave" width="1200">
+    <p><em>A sound wave</em></p>
 </div>
 
 
-A voting-based ensemble method is employed, utilizing soft voting to average the predicted probabilities of each class from multiple machine learning algorithms. This approach achieved an accuracy of 82.5% in the Kaggle Competetion
+A voting-based ensemble method is employed, utilizing soft voting to average the predicted probabilities of each class from multiple machine learning algorithms. This approach achieved an accuracy of 80.5% in the Kaggle Competetion
+
+Below shows the confusion matrix of the voting based classifier
+
+<div align="center">
+    <img src="./images/Screenshot 2025-02-25 172805.png" alt="Sound wave" width="1200">
+    <p><em>A sound wave</em></p>
+</div>
